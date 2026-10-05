@@ -1,0 +1,10 @@
+# Build output
+*.class
+out/
+
+# IDE
+.vscode/
+.idea/
+
+# Khong dua len GitHub (nop rieng)
+docs/
